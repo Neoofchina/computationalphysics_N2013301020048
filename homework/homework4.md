@@ -63,10 +63,10 @@ pyp.ylable('粒子数/个')
 四、**结果**
 
 1、当Ta>Tb时，
-[picture1](https://raw.githubusercontent.com/Neoofchina/computationalphysics_N2013301020048/master/picture/figure_1_%E7%9C%8B%E5%9B%BE%E7%8E%8B.jpg)
+![picture1](https://raw.githubusercontent.com/Neoofchina/computationalphysics_N2013301020048/master/picture/figure_1_%E7%9C%8B%E5%9B%BE%E7%8E%8B.jpg)
 
 2、当Ta=Tb时，
-[picture2](https://raw.githubusercontent.com/Neoofchina/computationalphysics_N2013301020048/master/picture/figure_2_%E7%9C%8B%E5%9B%BE%E7%8E%8B.jpg)
+![picture2](https://raw.githubusercontent.com/Neoofchina/computationalphysics_N2013301020048/master/picture/figure_2_%E7%9C%8B%E5%9B%BE%E7%8E%8B.jpg)
 
 3、当Ta>Tb时
-[picture3](https://raw.githubusercontent.com/Neoofchina/computationalphysics_N2013301020048/master/picture/figure_3_%E7%9C%8B%E5%9B%BE%E7%8E%8B.jpg)
+![picture3](https://raw.githubusercontent.com/Neoofchina/computationalphysics_N2013301020048/master/picture/figure_3_%E7%9C%8B%E5%9B%BE%E7%8E%8B.jpg)
