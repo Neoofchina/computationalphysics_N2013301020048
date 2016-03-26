@@ -27,6 +27,7 @@ s=str(a/b)
 pyp.title('if a/b='+s)
 
 四、**结果**
+
     借助上述程序研究在人口基数为100，步长为0.001，时间为100，b=0.01的情况下不同的出生率下人口变化的规律。
 1,a=0.5时：
 ![picture1](https://raw.githubusercontent.com/Neoofchina/computationalphysics_N2013301020048/master/picture/50.jpg)
