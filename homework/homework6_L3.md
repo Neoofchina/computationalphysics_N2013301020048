@@ -28,10 +28,10 @@
 
 当m很大时，
 
-![picture](https://raw.githubusercontent.com/Neoofchina/computationalphysics_N2013301020048/master/picture/JP6~E8X)Z%5DBDRSPN%4025%605VO_%E7%9C%8B%E5%9B%BE%E7%8E%8B.jpg)
+![picture](https://raw.githubusercontent.com/Neoofchina/computationalphysics_N2013301020048/master/picture/1.jpg)
 
 当m很小时，
 
-![picture](https://raw.githubusercontent.com/Neoofchina/computationalphysics_N2013301020048/master/picture/_P%5BI_H6Y_F2X2Q9X(%7B%7B2KEK_%E7%9C%8B%E5%9B%BE%E7%8E%8B.jpg)
+![picture](https://raw.githubusercontent.com/Neoofchina/computationalphysics_N2013301020048/master/picture/2.jpg)
 
 强有力地校准后的轨迹和理想的轨迹相近，但是当校准能力有限时和有空气阻力的轨迹差不多。总的而言，在误差范围内，这样的设置可以提高炮弹的准确度。
