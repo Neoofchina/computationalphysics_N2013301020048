@@ -12,3 +12,5 @@
 [homework6](https://raw.githubusercontent.com/Neoofchina/computationalphysics_N2013301020048/master/homework/homework6_L3.md)
 
 [homework7](https://raw.githubusercontent.com/Neoofchina/computationalphysics_N2013301020048/master/homework/homewoek7.md)
+
+[homework8](https://raw.githubusercontent.com/Neoofchina/computationalphysics_N2013301020048/master/homework/homework8.md)
