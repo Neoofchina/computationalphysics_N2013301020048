@@ -15,4 +15,4 @@
 
 [homework8](https://github.com/Neoofchina/computationalphysics_N2013301020048/blob/master/homework/homework8.md)
 
-[homework9](https://www.zybuluo.com/mdeditor#355898)
+[homework9](https://www.zybuluo.com/Neolee/note/355898)
