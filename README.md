@@ -27,4 +27,4 @@
 
 [homework14](https://www.zybuluo.com/Neolee/note/394812)
 
-[the final homework](computationalphysics_N2013301020048/homework/计算物理.pdf)
+[the final homework](https://raw.githubusercontent.com/Neoofchina/computationalphysics_N2013301020048/master/homework/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86.pdf)
