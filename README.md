@@ -26,3 +26,5 @@
 [homework13](https://www.zybuluo.com/Neolee/note/385918)
 
 [homework14](https://www.zybuluo.com/Neolee/note/394812)
+
+[the final homework](computationalphysics_N2013301020048/homework/计算物理.pdf)
