@@ -32,4 +32,4 @@
 
 [the final homework](https://github.com/Neoofchina/computationalphysics_N2013301020048/blob/master/homework/计算物理.pdf)
 
-$a$
+$$a$$
