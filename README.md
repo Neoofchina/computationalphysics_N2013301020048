@@ -1,6 +1,9 @@
 #computationalphysics_2013301020048
+
 #The One to be a great physicist!
+
 #Homework：
+
 [homemork1&2](https://github.com/Neoofchina/computationalphysics_N2013301020048/blob/master/homework/homework1%262 )
 
 [homework3_level2](https://github.com/Neoofchina/computationalphysics_N2013301020048/blob/master/homework/homework3_level2.md)
@@ -28,3 +31,5 @@
 [homework14](https://www.zybuluo.com/Neolee/note/394812)
 
 [the final homework](https://github.com/Neoofchina/computationalphysics_N2013301020048/blob/master/homework/计算物理.pdf)
+
+$a$
